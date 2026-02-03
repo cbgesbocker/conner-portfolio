@@ -373,6 +373,13 @@ section {
     font-size: 0.95rem;
 }
 
+.degree-note {
+    color: var(--color-accent);
+    font-size: 0.85rem;
+    font-style: italic;
+    margin-top: 0.25rem;
+}
+
 /* === SKILLS === */
 .skills {
     background: var(--color-white);
