@@ -297,6 +297,7 @@ section {
 /* === EXPERIENCE === */
 .experience {
     background: var(--color-white);
+    position: relative;
 }
 
 .timeline {
