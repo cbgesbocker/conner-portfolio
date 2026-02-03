@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Building Scalable Systems at Scale",
+      "slug": "building-scalable-systems",
+      "excerpt": "Lessons learned from architecting systems that serve millions of users.",
+      "date": "2026-02-01",
+      "content": "# Building Scalable Systems at Scale\n\nOver the years, I've learned that building systems that scale requires more than just writing code. It requires thoughtful architecture, clear communication, and a deep understanding of your use cases.\n\n## Key Principles\n\n1. **Start Simple** - Don't over-engineer from the beginning\n2. **Measure Everything** - You can't optimize what you don't measure\n3. **Plan for Growth** - Design with tomorrow's scale in mind\n4. **Document Your Decisions** - Future you will thank you\n\nMore content coming soon..."
+    }
+  ]
+}
