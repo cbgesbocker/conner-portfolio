@@ -19,14 +19,12 @@ A clean, modern portfolio website showcasing 10+ years of web development experi
 ## Local Development
 
 ```bash
-# Python
-python -m http.server 8000
-
-# Node
 npx serve
+# or
+yarn serve
 ```
 
-Then visit `http://localhost:8000`
+Then visit `http://localhost:3000` (or the port shown in terminal)
 
 ## File Structure
 
